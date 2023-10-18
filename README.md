@@ -1,3 +1,3 @@
 # ToDo-App
 
-The app is created without the database
+No database is connected
